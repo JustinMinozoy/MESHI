@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "731441550591",
+    "firebase_url": "https://meshi-d3051.firebaseio.com",
+    "project_id": "meshi-d3051",
+    "storage_bucket": "meshi-d3051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731441550591:android:a129feb64cc61d81",
+        "android_client_info": {
+          "package_name": "com.minozoy.magasid.meshi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731441550591-5g3b9nq391e094v3up5k2k82t3pvo9vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minozoy.magasid.meshi",
+            "certificate_hash": "084bbfaba8c1543cec3545a621e8bfe7b8ae071c"
+          }
+        },
+        {
+          "client_id": "731441550591-6vo7j7av92ptpk47imq8nf7i9rm29tt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs1ins-26cFFORtaoMHHUnM7NSR_95Koo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731441550591-6vo7j7av92ptpk47imq8nf7i9rm29tt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
